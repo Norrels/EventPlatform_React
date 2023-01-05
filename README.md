@@ -3,15 +3,14 @@
 A ideia principal era desenvolver uma plataforma que ao realiza-se o login o aluno teria acesso as aulas, simbilar a própria plataforma da Rocketseat, todos os dados vem do graphql
 
 ### Conceitos desenvolvidos
-- Styled-Components
+- ReactJS
+- Tailwind
+- Apollo
+- Graphql
+- Lib, Vimeo
 - React-Router-Dom
-- Method reduce
-- LocalStorage
-- Radio Group, Radix
-- Zod
-- Reducers e Actions
 
 ### Acesse o website :sweat_smile:
 
-<a href=https://coffee-delivery-react-ochre.vercel.app/>Coffee Delivery</a>
+<a href=https://coffee-delivery-react-ochre.vercel.app/>Plataforma de evento</a>
 
