@@ -12,5 +12,5 @@ A ideia principal era desenvolver uma plataforma que ao realiza-se o login o alu
 
 ### Acesse o website :sweat_smile:
 
-<a href=https://coffee-delivery-react-ochre.vercel.app/>Plataforma de evento</a>
+<a href=https://event-platform-react-xi.vercel.app/>Plataforma de evento</a>
 
